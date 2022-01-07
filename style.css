@@ -1,0 +1,38 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+#h3
+{
+  font-family: 'Licorice';
+  font-family: 'Pushster';
+  font-family: 'Vujahday Script';
+}
+
+#note
+{
+  font-size: 15px;
+  color: black;
+  font-family: 'Licorice';
+  font-family: 'Pushster';
+  font-family: 'Roboto Condensed';
+  font-family: 'Vujahday Script';
+}
+body
+{
+  background-size: cover;	
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
